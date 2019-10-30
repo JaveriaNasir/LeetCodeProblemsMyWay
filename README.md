@@ -1,1 +1,1 @@
-# LeetCodeProblemsMyWay
+# LeetCodeProblems
